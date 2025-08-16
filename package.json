@@ -1,0 +1,1 @@
+{\n  "name": "nofal-boq-excel-prototype",\n  "version": "0.1.0",\n  "main": "server.js",\n  "license": "MIT",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.18.2",\n    "multer": "^1.4.5",\n    "xlsx": "^0.18.5",\n    "csv-parse": "^5.4.0",\n    "sqlite3": "^5.1.6",\n    "better-sqlite3": "^8.5.0"\n  }\n}
